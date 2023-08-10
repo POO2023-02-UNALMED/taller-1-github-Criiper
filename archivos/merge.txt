@@ -1,0 +1,1 @@
+Ahora se puede crear un commit y subir la carpeta debido a que esta no está vacía. Solo es posible hacer commits con carpetas que contengan algún archivo.
