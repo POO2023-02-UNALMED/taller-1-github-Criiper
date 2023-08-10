@@ -1,0 +1,1 @@
+Git no reconoce cambios cuando hay una carpeta vacía, solo lo hace si hay algun archivo dentro de ella.
