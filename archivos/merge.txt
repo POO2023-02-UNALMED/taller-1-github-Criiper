@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 Cristian David Pérez Lopera
 17 años
 Poder extender y mejorar mis capacidades como programador, y capacitarme para realizar proyectos reales.
-=======
+
 Ahora se puede crear un commit y subir la carpeta debido a que esta no está vacía. Solo es posible hacer commits con carpetas que contengan algún archivo.
->>>>>>> a054152c1ccf828a605397b54777ff98f9f38463
